@@ -2,4 +2,3 @@
 
 > **Pawn Programmer**
 
-> **Founder of Montana State RP SA:MP**
