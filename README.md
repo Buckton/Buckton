@@ -1,16 +1,22 @@
-## 🍔 I'm a young computer programmer from Argentina, Chaco
+# ¡Hi! <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" alt="gif" width="30" height="30">
 
+I am sneedman, a young computer scientist from Buenos aires, Argentina.
+
+# Languages
+<div align="left">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/python.svg" alt="Python" width="50" height="50">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/c.svg" alt="C" width="50" height="50">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/cpp.svg" alt="C++" width="50" height="50">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/rust.svg" alt="Rust" width="50" height="50">
 </div>
-<h1 align="center">Languages</h1>
-<div align="center">
-        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/html.svg"
-             title="HTML" alt="HTML Lenguage"
-             width="60" height="60"/></a>&nbsp;
-        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/css.svg"
-             title="CSS" alt="CSS Lenguage"
-             width="60" height="60"/></a>&nbsp;       
-        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/javascript.svg"
-             title="JavaScript" alt="JavaScript Lenguage"
-             width="60" height="60"/></a>&nbsp;
+
+# Technologies
+<div align="left">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/mongodb.svg" alt="mongodb" width="50" height="50">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/flask.svg" alt="flask" width="50" height="50">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/django.svg" alt="django" width="50" height="50">
 </div>
+
+#
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="Python" width="1100">
 
