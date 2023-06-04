@@ -1,6 +1,6 @@
 # ¡Hi! <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" alt="gif" width="30" height="30">
 
-I am sneedman, a young computer scientist from Buenos aires, Argentina.
+I am Buckton, a young computer scientist from Buenos aires, Argentina.
 
 # Languages
 <div align="left">
