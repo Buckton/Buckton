@@ -1,4 +1,4 @@
-## :hamburger: I'm a young computer programmer from Argentina, Chaco
+## :hamburger: I'm a young programmer from Argentina, Chaco
 
 </div>
 <h1 align="center">Languages</h1>
