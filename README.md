@@ -3,6 +3,9 @@
 </div>
 <h1 align="center">Languages</h1>
 <div align="center">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/php.svg"
+             title="PHP" alt="PHP Lenguage"
+             width="60" height="60"/></a>&nbsp;
         <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/html.svg"
              title="HTML" alt="HTML Lenguage"
              width="60" height="60"/></a>&nbsp;
